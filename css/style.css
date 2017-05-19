@@ -1,0 +1,47 @@
+#topBox {
+  background-color: red;
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+#boxLeft {
+  background-color: blue;
+  width: 33%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 100px;
+  top: 100px;
+}
+
+#boxCenter {
+  background-color: purple;
+  width: 45%;
+  height: 100%;
+  position: fixed;
+  left: ;
+  right: 25%;
+  top: 100px;
+}
+
+#boxRight {
+  background-color: yellow;
+  width: 33%;
+  height: 100%;
+  position: fixed;
+  right: 0px;
+  bottom: 100px;
+  top: 100px;
+}
+
+#bottomBox {
+  background-color: green;
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+}
